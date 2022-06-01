@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amanda
 - 👀 I’m interested in User Experience Design and Research
-- 🌱 I’m currently learning Python, Java, C#, and C++ to grow into a Software Developer role.
+- 🌱 I’m currently learning Python, Java, JavaScript, and C++ to grow into a Software Developer role.
 - 💞️ I’m looking to collaborate on Text based games, and User Interface Design for all platforms.
 - 📫 How to reach me: linkedin.com/in/amanda-salaiz
 
